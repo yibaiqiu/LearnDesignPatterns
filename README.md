@@ -1,6 +1,6 @@
 # Learn Language and Design Patterns
 
-学习一门语言就要学以致用，就先来写写设计模式，反正挺有意思。
+学习一门语言就要学以致用，就先来写写[设计模式](https://en.wikipedia.org/wiki/Software_design_pattern)，反正挺有意思。
 
 Learn a language and go to implement the design patterns in that language just for fun。 
 
@@ -14,7 +14,7 @@ Learn a language and go to implement the design patterns in that language just f
   - 原型(Prototype)
   - 单件(Singleton)
 - 结构模式(Structural Patterns)
-  - 适配器(Adapter)
+  - [适配器(Adapter)](https://github.com/youlangu/LearnDesignPatterns/tree/master/JavaScript/Structural/Adapter)
   - 桥接(Bridge)
   - 组合(Composite)
   - 装饰(Decorator)
